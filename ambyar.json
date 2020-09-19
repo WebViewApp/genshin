@@ -1,0 +1,52 @@
+{
+    "results": [
+        {
+            "judul": "CHARACTER SELECTION",
+            "poster": "https://webviewapp.github.io/genshin/img/1.png",
+            "short_desc": "Starting the game will give you the option to select the male, Aether, or the female character, Lumine.",
+            "description": "https://webviewapp.github.io/genshin/stage1.html"
+        },
+        {
+            "judul": "LEVELING",
+            "poster": "https://webviewapp.github.io/genshin/img/2.png",
+            "short_desc": "As for now with the CBT2 status, you can only level your characters by using EXP scrolls as monsters barely give any exp.",
+            "description": "https://webviewapp.github.io/genshin/stage2.html"
+        },
+        {
+            "judul": "ITEMS & CONSUMABLES",
+            "poster": "https://webviewapp.github.io/genshin/img/3.png",
+            "short_desc": "As you travel through the world, you can grab all sort of things on your way to the next location.",
+            "description": "https://webviewapp.github.io/genshin/stage3.html"
+        },
+        {
+            "judul": "CHESTS",
+            "poster": "https://webviewapp.github.io/genshin/img/4.png",
+            "short_desc": "Chests are one of the mainsources to get artifacts, materials, AR EXP and CHAR EXP scrolls.",
+            "description": "https://webviewapp.github.io/genshin/stage4.html"
+        },
+        {
+            "judul": "COMBAT",
+            "poster": "https://webviewapp.github.io/genshin/img/5.png",
+            "short_desc": "If you played the previous game by miHoYo",
+            "description": "https://webviewapp.github.io/genshin/stage5.html"
+        },
+        {
+            "judul": "EQUIPMENT",
+            "poster": "https://webviewapp.github.io/genshin/img/6.png",
+            "short_desc": "Try to build yourself one main damage dealer by cherrypicking your artifacts.",
+            "description": "https://webviewapp.github.io/genshin/stage6.html"
+        },
+        {
+            "judul": "WORLD RANK",
+            "poster": "https://webviewapp.github.io/genshin/img/7.png",
+            "short_desc": "After playing a while you will find yourself in the situation where the main storyline is locked",
+            "description": "https://webviewapp.github.io/genshin/stage7.html"
+        },
+        {
+            "judul": "ANEMOCULUS & GEOCULUS",
+            "poster": "https://webviewapp.github.io/genshin/img/8.png",
+            "short_desc": "As you explore the world of Teyvat you will sometimes see stars appear on your mini map.",
+            "description": "https://webviewapp.github.io/genshin/stage8.html"
+        }
+    ]
+}
